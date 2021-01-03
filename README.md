@@ -7,10 +7,14 @@ https://github.com/mkarkuody/Team-Profile-Generator-
 
 
 # Table of Contents
-Screenshots
-Installation
-Usage
-Credits
+*Screenshots
+
+*Installation
+
+*Usage
+
+*Credits
+
 
 # Screenshots
 
@@ -19,7 +23,7 @@ Credits
 <img src="team-profile.jpg">
 
 # demo video link :
-
+https://github.com/mkarkuody/Team-Profile-Generator-/blob/main/Untitled_%20Jan%203%2C%202021%202_53%20AM.mp4
 
 #Installation
 Steps to install application:
